@@ -1,0 +1,16 @@
+[
+{
+  "modid": "industrialcapitalism",
+  "name": "Industrial Capitalism",
+  "description": "A mod that encourages big corporations while destroying the environment",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeaSTL"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
